@@ -7,5 +7,5 @@ Para un desarrollador es muy importante saber como determinar el costo de su tra
 
 ## ¿Qué debes hacer?
 1. Crea un formulario en HTML que reciba las variables necesarias para hacer el calculo por hora.
-2. Completar el script de JS que evalue las variables recibidas por el formulario y nos muestre el resultado en un elemento de contenido dinámico.
+2. Completa el script de JS que evalue las variables recibidas por el formulario y nos muestre el resultado en un elemento de contenido dinámico.
 3. Una vez completado el script, agregar estilos a la app a través de un archivo externo de CSS que mejore la interfaz y siga los lineamientos de responsive design.
