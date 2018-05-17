@@ -24,26 +24,32 @@ Para un desarrollador es muy importante saber como determinar el costo de su tra
 | Jubilación                  | Número(%)     |
 
 ### Pasos a seguir
-1) Salario bruto anual = Quieres ganar x 12
-Horas posibles = Horas al día x días a trabajar x 52 semanas
-2) Hora básico = Salario Bruto Anual / Horas posibles
+1) `Salario bruto anual = Quieres ganar x 12`
 
-3) Sumamos el precio de horas que no se van a trabajar
-Horas que no trabajaras = días libres x horas al día + días de inactividad X horas al día
+2) `Horas posibles = Horas al día x días a trabajar x 52 semanas`
 
-4) Calcular tiempo administrativo
-Tiempo administrativo = Porcentaje de juntas x (horas posibles - horas que no trabajaras)
+3) `Hora básico = Salario Bruto Anual / Horas posibles`
+
+4) Sumamos el precio de horas que no se van a trabajar
+
+`Horas que no trabajaras = días libres x horas al día + días de inactividad X horas al día`
+
+6) Calcular tiempo administrativo
+
+`Tiempo administrativo = Porcentaje de juntas x (horas posibles - horas que no trabajaras)`
 
 5) Calcular el total de gastos fijos 
-Gastos fijos = Gastos mensuales fijos x 12
+
+`Gastos fijos = Gastos mensuales fijos x 12`
 
 6) Calcular el precio extra del trabajo
-Precio extra = Horas que no trabajaras + Tiempo administrativo + Gastos fijos
 
-7) Horas efectivas
-Horas efectivas = (Horas posibles - horas que no trabajaras - tiempo adminstrativo) x hora básica
+`Precio extra = Horas que no trabajaras + Tiempo administrativo + Gastos fijos`
 
-8) Rentabilidad
-Precio extra / Horas efectivas
+7) `Horas efectivas = (Horas posibles - horas que no trabajaras - tiempo adminstrativo) x hora básica`
 
-9) Hora básica + (Hora básica * rentabilidad) + (Hora básica * jubilación) = Precio por hora de trabajo
+8) Calcular la Rentabilidad
+
+`Rentabilidad = Precio extra / Horas efectivas`
+
+9) `Hora básica + (Hora básica * rentabilidad) + (Hora básica * jubilación) = Precio por hora de trabajo`
